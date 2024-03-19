@@ -12,8 +12,8 @@ const poppins = Poppins({
 })
 
 export const metadata = {
-  title: 'Miragelancer - Next Gen AI powered Freelancing Platform For New Age.',
-  description: 'Next Gen AI powered Freelancing Platform For New Age.',
+  title: 'MirageNotes - Next Gen AI powered Note Making Platform For New Age.',
+  description: 'Next Gen AI powered Note Making Platform For New Age.',
 }
 
 export default function RootLayout({ children } : any) {

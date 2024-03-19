@@ -32,10 +32,10 @@ export default function Home() {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Your Next Gen Freelancing Destination.
+              Your Next Gen Note Making Destination.
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Are you ready to experience the future of freelancing? Welcome to Miragelancer, where the power of AI meets the world of freelancing to bring you a revolutionary platform tailored for the new age of work.
+              Are you ready to experience the future of Note Making? Welcome to Miragelancer, where the power of AI meets the world of Note Making to bring you a revolutionary platform tailored for the new age of work.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link href="/">

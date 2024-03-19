@@ -29,9 +29,9 @@ export default function Navbar() {
             href="/"
             className="flex flex-row gap-2 w-min items-center h-10 hover:bg-[rgba(225,225,225,0.1)] object-cover rounded-md text-white"
           >
-            <Image src={Logo} alt="Miragelancer Logo" className="h-10" />
+            <Image src={Logo} alt="MirageNotes Logo" className="h-10" />
             <span className="md:text-md text-base font-semibold border-l border-l-blue-200 pl-2 leading-tight">
-              Miragelancer
+              MirageNotes
             </span>
           </Link>
           <div className="flex flex-row gap-0 justify-end text-white">
